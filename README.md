@@ -98,7 +98,8 @@ A proposta é transformar a tecnologia em ferramenta de equidade social.
 
 ## 👨‍💻 Autor
 
-Em desenvolvimento por Enzo Ribeiro
+Em desenvolvimento por Enzo Ribeiro da Silva
+
 Estudante de Inteligência e Análise de Dados
 Focado em tecnologia com impacto social 🚀
 
